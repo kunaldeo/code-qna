@@ -210,7 +210,7 @@ code-qna "How does user data flow from the frontend to the database?"
 ```
 
 ## 📊 Example Output
-![code-qna in action](https://github.com/user-attachments/assets/903ca489-86c4-40db-996e-848f6b54cfa6)
+![code-qna in action](https://github.com/user-attachments/assets/9ed21c6a-f451-42fb-b635-9c18c72b7ea0)
 ---
 
 **Built with ❤️ for developers who want to understand code better**
