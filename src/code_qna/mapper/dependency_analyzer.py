@@ -2,7 +2,6 @@ from typing import Dict, List, Set, Optional, Tuple, Any
 from pathlib import Path
 import re
 import ast
-from tqdm import tqdm
 from .semantic_graph import SemanticGraph, CodeNode, CodeEdge, NodeType, EdgeType
 from ..parser import SyntaxParser
 from ..utils.progress_tracker import code_map_progress

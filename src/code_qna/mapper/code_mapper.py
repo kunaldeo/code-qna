@@ -4,7 +4,6 @@ import json
 import time
 import hashlib
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from tqdm import tqdm
 from .semantic_graph import SemanticGraph, NodeType, EdgeType
 from .dependency_analyzer import DependencyAnalyzer
 from ..parser import SyntaxParser
